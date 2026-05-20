@@ -77,3 +77,8 @@ Similar assets should also be reviewed for the same exposure.
 - Threat analysis
 - Incident response documentation
 - Detection of combined attack techniques
+
+## Evidence Screenshot
+
+
+![Alert Screenshot](../images/03-sql-injection-alert.png)
