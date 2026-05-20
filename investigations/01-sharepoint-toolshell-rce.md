@@ -69,3 +69,7 @@ is needed and Tier 2 should investigate further.
 - MITRE ATT&CK mapping
 - Incident response documentation
 - Log and artifact analysis
+
+## Evidence Screenshot
+
+![Alert Screenshot](../images/01-sharepoint-rce-alert.png)
