@@ -75,3 +75,8 @@ sources only, and enabling MFA.
 - Incident triage
 - Brute force attack detection
 - Incident response documentation
+
+## Evidence Screenshot
+
+
+![Alert Screenshot](../images/04-rdp-bruteforce-alert.png)
