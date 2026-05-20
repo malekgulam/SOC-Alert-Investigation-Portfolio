@@ -78,4 +78,5 @@ for further investigation.
 
 ## Evidence Screenshot
 
+
 ![Alert Screenshot](../images/02-splunk-rce-alert.png)
