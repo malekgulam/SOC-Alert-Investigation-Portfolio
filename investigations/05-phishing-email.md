@@ -72,3 +72,8 @@ blocked IP 172.16.20.3, and contained host felix.
 - SIEM alert triage
 - Incident response documentation
 - Phishing detection and containment
+
+## Evidence Screenshot
+
+
+![Alert Screenshot](../images/05-phishing-alert.png)
