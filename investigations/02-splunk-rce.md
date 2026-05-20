@@ -75,3 +75,7 @@ for further investigation.
 - Threat intelligence
 - Incident response documentation
 - Remote code execution analysis
+
+## Evidence Screenshot
+
+![Alert Screenshot](../images/02-splunk-rce-alert.png)
