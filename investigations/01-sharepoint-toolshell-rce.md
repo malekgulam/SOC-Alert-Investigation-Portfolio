@@ -72,4 +72,5 @@ is needed and Tier 2 should investigate further.
 
 ## Evidence Screenshot
 
+
 ![Alert Screenshot](../images/01-sharepoint-rce-alert.png)
